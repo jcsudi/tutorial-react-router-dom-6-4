@@ -8,7 +8,7 @@ function App() {
   return (
     <nav
     style={{
-      borderBottom: "solid 1px",
+      borderBottom: "solid 1px orange",
       paddingBottom: "1rem",
     }}
   >
