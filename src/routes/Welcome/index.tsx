@@ -1,7 +1,7 @@
 export default function Welcome(){
 
     return(
-        <h2>Sejam bem vindos!</h2>
+        <h2 style={{color: "orange"}}>Sejam bem vindos!</h2>
 
     );
 }
